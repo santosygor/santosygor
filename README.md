@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ygor Santos
 
 -  Estudante de Engenharia de Software
--  Atualmente estudando JavaScript e HTML
+-  Habidades principais: JavaScript, HTML, CSS, Node.Js., MySQL.
 -  Pronouns: ele/dele
 
 ##
