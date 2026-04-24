@@ -15,6 +15,7 @@
 
 ##
 
+<p align="center">
 <table>
   <tr>
     <td align="center" width="120">
@@ -39,7 +40,7 @@
     </td>
   </tr>
 </table>
-
+</p>
 
 ##
 
