@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/santosygor">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosygor&show_icons=true&theme=dark&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosygor&layout=compact&langs_count=16&theme=dark&cache_seconds=1800"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=santosygor&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Ygor"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosygor&layout=compact&langs_count=16&theme=dark" alt="Linguagens mais usadas"/>
   </a>
 </p>
 
@@ -46,9 +46,9 @@
 
 <p align="center">
   <a href="mailto:ygor.engenheiro.software@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/ygor-silva-201a34180/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
