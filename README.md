@@ -7,10 +7,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/santosygor">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=santosygor&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Ygor"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosygor&layout=compact&langs_count=16&theme=dark" alt="Linguagens mais usadas"/>
-  </a>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=santosygor&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 ## 🛠️ Tecnologias e Habilidades
